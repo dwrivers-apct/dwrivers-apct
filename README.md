@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dwrivers-apct
 - 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on software engineering projects at APCT
 - 📫 How to reach me: daniel.rivers@apctinc.com
 
